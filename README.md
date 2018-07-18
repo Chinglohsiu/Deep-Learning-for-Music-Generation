@@ -5,7 +5,7 @@
 
 - **Deep Learning Techniques for Music Generation - A Survey** (2017.9) [[arXiv](https://arxiv.org/abs/1709.01620)]
 
-- **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions** - **ISMIR 2017** (2017.3) [[arXiv](https://arxiv.org/abs/1703.10847)] [[Page](https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html)] 
+- **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions** - **ISMIR 2017** (2017.3) [[arXiv](https://arxiv.org/abs/1703.10847)] [[Page](https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html)] [[Code](https://github.com/Chinglohsiu/MidiNet/tree/master/v1)] 
 
 - **C-RNN-GAN: Continuous Recurrent Neural Networks with Adversarial Training** (2016.11) [[arXiv](https://arxiv.org/abs/1611.09904)] [[Code](https://github.com/olofmogren/c-rnn-gan)]
 
